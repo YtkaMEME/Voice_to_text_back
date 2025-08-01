@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Bytecode / cache
+.cache/
+*.sqlite3
+*.db
+*.db-journal
+file_tracking.db
+
+# Flask
+instance/
+.env
+.env.*
+*.env
+*.bak
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Uploads and generated files
+uploads/
+processed/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Pipenv
+Pipfile.lock
+
+# Output artifacts
+*.mp3
+*.ogg
+*.wav
+*.txt
+*.zip
+*.tar.gz
+*.tar
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter
+.ipynb_checkpoints/
