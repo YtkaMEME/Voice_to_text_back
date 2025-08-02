@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from config import API_KEY  # 🔐 Убедись, что config.py содержит API_KEY
 import logging
 
-FOLDER_INPUT = "voice"
+FOLDER_INPUT = "voice/voice"
 FOLDER_OUTPUT = "processed"
 FOLDER_TEMP = "uploads"
 
