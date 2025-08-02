@@ -49,7 +49,6 @@ Pipfile.lock
 *.mp3
 *.ogg
 *.wav
-*.txt
 *.zip
 *.tar.gz
 *.tar
